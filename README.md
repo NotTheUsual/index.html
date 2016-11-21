@@ -7,29 +7,29 @@ A guide to everything I've put here (so far)
 
 ## Cordova Plugins
 
-- [iOS Notification Permissions](https://github.com/NotTheUsual/cdv-ios-notification-permissions)
-- [Gallery](https://github.com/NotTheUsual/GalleryCordovaPlugin)
-- [ChatBar](https://github.com/NotTheUsual/ChatBarCordovaPlugin)
-- [iOS Loading Overlay](https://github.com/NotTheUsual/iOSLoadingOverlayCordovaPlugin)
-- [Browser](https://github.com/NotTheUsual/cordova-browsable-link-selector)
+- [Gallery](https://github.com/NotTheUsual/GalleryCordovaPlugin) - Shows a gallery. Lets you download/pin/delete a photo [Swift]
+- [ChatBar](https://github.com/NotTheUsual/ChatBarCordovaPlugin) - Simple text entry bar (With a WebView you lose the keyboard when you send a message. This fixes that) [Swift/Java]
+- [Browser](https://github.com/NotTheUsual/cordova-browsable-link-selector) - Gives you a browser that lets you save links [C#]
+- [iOS Notification Permissions](https://github.com/NotTheUsual/cdv-ios-notification-permissions) - Checks to see whether notification permissions have been granted [Swift]
+- [iOS Loading Overlay](https://github.com/NotTheUsual/iOSLoadingOverlayCordovaPlugin) - [Swift]
 
 ## Personal Projects
 
-- [Family Weekend](https://github.com/NotTheUsual/Family-Weekend)
-- [DocBlog](https://github.com/NotTheUsual/DocBlog)
-- [Five O'Clock](https://github.com/NotTheUsual/five-o-clock)
+- [Family Weekend](https://github.com/NotTheUsual/Family-Weekend) - Website for my family [Ruby/Rails]
+- [DocBlog](https://github.com/NotTheUsual/DocBlog) - Blog that lets you submit posts as Word docs [Ruby/Rails/Angular]
+- [Five O'Clock](https://github.com/NotTheUsual/five-o-clock) - Nonsense [Ruby/Rails]
 
 ## Tech Tests
 
-- [SatNav](https://github.com/NotTheUsual/SatNav)
+- [SatNav](https://github.com/NotTheUsual/SatNav) - [Ruby]
 
 ## Makers Academy Projects
 
-- [Somatra](https://github.com/NotTheUsual/somatra)
-- [Soma](https://github.com/NotTheUsual/Soma)
-- [Snappygram](https://github.com/NotTheUsual/Snappygram)
-- [Login Counter](https://github.com/NotTheUsual/Login-Counter)
-- [Ruby Revision Test](https://github.com/NotTheUsual/Ruby-Revision-Test)
+- [Somatra](https://github.com/NotTheUsual/somatra) [Ruby/Rails]
+- [Soma](https://github.com/NotTheUsual/Soma) [Ruby/Rails]
+- [Snappygram](https://github.com/NotTheUsual/Snappygram) [Ruby/Rails]
+- [Login Counter](https://github.com/NotTheUsual/Login-Counter) [Ruby/Rails]
+- [Ruby Revision Test](https://github.com/NotTheUsual/Ruby-Revision-Test) [Ruby]
 - [Quiz Project](https://github.com/NotTheUsual/quiz-project)
 - [Twitter Clone](https://github.com/NotTheUsual/Twitter-Clone)
 - [GitHub Users Exercise](https://github.com/NotTheUsual/GitHub-Users-Exercise)
